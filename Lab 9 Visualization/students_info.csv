@@ -1,0 +1,1001 @@
+Student ID,First Name,Last Name,Gender,Age,Grade,Email Address,Department
+1,Jessica,Franklin,Female,19,83.9,harrisonrodney@example.org,Electrical Engineering
+2,James,White,Male,18,93.54,kaylaayala@example.net,Physics
+3,Angela,Sullivan,Male,23,73.98,wellsanna@example.net,Electrical Engineering
+4,Larry,Mayer,Female,19,62.16,carol76@example.net,Mathematics
+5,Thomas,Gonzalez,Male,21,89.7,andrewolson@example.net,Mathematics
+6,Jessica,Meyer,Female,21,99.76,djohnson@example.com,Mechanical Engineering
+7,Stephanie,Stewart,Female,22,85.78,nicholas31@example.org,Mathematics
+8,Brett,Nguyen,Female,25,63.69,laurajohnson@example.net,Physics
+9,Wayne,Cook,Male,24,64.11,lclark@example.net,Electrical Engineering
+10,Keith,Johnston,Female,21,85.48,michaellopez@example.com,Mechanical Engineering
+11,Kerri,Serrano,Female,19,75.36,mathew58@example.net,Electrical Engineering
+12,Tracey,Perry,Male,22,62.12,ijones@example.net,Mechanical Engineering
+13,Christopher,Davis,Female,24,97.47,ronald42@example.com,Electrical Engineering
+14,Emily,Robinson,Male,24,72.11,catherineharris@example.com,Mechanical Engineering
+15,Cathy,Ramsey,Female,18,81.08,julielong@example.net,Computer Science
+16,Crystal,Bowman,Male,23,79.3,leeheather@example.com,Electrical Engineering
+17,Shane,Browning,Male,18,71.8,michaelbrooks@example.com,Computer Science
+18,Wendy,Dawson,Male,18,71.6,raymondford@example.com,Mechanical Engineering
+19,Christopher,Day,Female,23,84.93,vyates@example.com,Computer Science
+20,Donald,Hopkins,Male,20,89.1,qjohnston@example.com,Mathematics
+21,Brenda,Acevedo,Male,20,89.74,brittany05@example.org,Mathematics
+22,Kathleen,Jones,Male,20,79.45,isanchez@example.net,Electrical Engineering
+23,Keith,Lloyd,Female,25,82.76,mle@example.org,Mechanical Engineering
+24,Gary,Leonard,Male,21,81.76,jonesjessica@example.org,Computer Science
+25,Paige,Johnson,Female,22,80.12,steven94@example.org,Electrical Engineering
+26,Robert,Hutchinson,Female,24,90.48,zachary49@example.net,Electrical Engineering
+27,Sandra,Jennings,Male,23,75.2,jcohen@example.org,Physics
+28,Karen,Garner,Female,23,91.29,clarkcourtney@example.net,Physics
+29,Michael,Wise,Female,22,75.81,mcampbell@example.net,Mathematics
+30,Daniel,Sanders,Female,25,61.46,laurawoods@example.net,Computer Science
+31,Carly,Carroll,Female,18,61.21,anthony27@example.org,Computer Science
+32,Dana,Harris,Male,18,96.68,jessica21@example.com,Computer Science
+33,Carrie,Davenport,Female,20,93.19,robertskenneth@example.org,Mathematics
+34,Lisa,Hull,Male,23,83.37,wspencer@example.com,Mechanical Engineering
+35,Eugene,Mckinney,Female,19,73.63,gilljasmine@example.com,Mechanical Engineering
+36,Keith,Bird,Male,20,91.61,elizabethsimpson@example.com,Mathematics
+37,Ann,Hansen,Male,20,66.53,mooremallory@example.org,Mathematics
+38,Kirk,Moon,Female,19,79.33,martinezbryan@example.com,Physics
+39,Andrea,Bradley,Male,22,99.78,hallnicole@example.org,Computer Science
+40,Jason,Briggs,Male,22,80.84,tinasanchez@example.org,Mathematics
+41,Brittany,Chavez,Female,21,84.05,acameron@example.com,Mathematics
+42,Riley,Perez,Male,22,65.12,brent50@example.net,Mechanical Engineering
+43,Thomas,Powell,Male,21,97.93,waltoncatherine@example.org,Physics
+44,Adam,Davidson,Female,23,99.69,heather52@example.net,Computer Science
+45,Danielle,Flowers,Female,21,74.38,ocarter@example.org,Mathematics
+46,Shawn,Sullivan,Male,23,98.45,james72@example.net,Mathematics
+47,Lisa,Williams,Female,21,79.45,kurt06@example.org,Mathematics
+48,Michael,Tucker,Male,19,63.56,christopherjames@example.org,Mechanical Engineering
+49,Charles,Carter,Female,24,82.64,matthew87@example.net,Mathematics
+50,Michael,Alvarado,Male,22,72.29,smithshelly@example.net,Computer Science
+51,Victoria,Mitchell,Male,18,60.13,ritajones@example.net,Electrical Engineering
+52,Lori,Livingston,Female,23,81.18,achang@example.org,Mathematics
+53,Gerald,Proctor,Male,24,68.06,cody14@example.net,Physics
+54,Andrew,Petersen,Male,24,78.9,laura07@example.net,Physics
+55,Corey,Malone,Female,24,91.0,rrodriguez@example.com,Electrical Engineering
+56,David,Curtis,Female,23,61.41,tonymiller@example.org,Electrical Engineering
+57,Cory,Holden,Female,20,65.23,aliciapearson@example.com,Physics
+58,Alison,Rhodes,Female,25,70.69,jenniferlewis@example.com,Mathematics
+59,Matthew,Baker,Male,25,95.01,kevin92@example.com,Computer Science
+60,Bradley,Glover,Female,23,78.47,jeremiah95@example.com,Mechanical Engineering
+61,Annette,Brewer,Male,19,78.95,mikaylanelson@example.com,Mechanical Engineering
+62,Anthony,Hill,Male,21,79.53,xjames@example.net,Computer Science
+63,Jenna,Foley,Male,23,60.47,edwardscurtis@example.com,Mechanical Engineering
+64,Christopher,Cohen,Male,20,98.37,carneycassandra@example.com,Mathematics
+65,David,Henry,Female,21,85.78,timothybrown@example.net,Electrical Engineering
+66,Aaron,Coleman,Male,20,97.09,brownlaura@example.org,Computer Science
+67,Chad,Ross,Female,18,75.04,mcdowellchristina@example.org,Mathematics
+68,Donna,Cruz,Male,23,67.11,michealoconnell@example.net,Mathematics
+69,Zachary,Gonzales,Male,25,76.27,amanda93@example.net,Physics
+70,Lindsey,Calderon,Male,18,80.85,vwatts@example.org,Computer Science
+71,Joanne,Becker,Male,25,88.73,wwalker@example.net,Physics
+72,Brian,Morrison,Male,20,69.61,ygarza@example.com,Physics
+73,Kristine,Fernandez,Female,20,78.57,jamesanderson@example.com,Mathematics
+74,Edward,Boyd,Male,18,67.76,dakotadickerson@example.com,Mathematics
+75,Tonya,Thompson,Male,21,64.25,michael36@example.net,Electrical Engineering
+76,David,Moreno,Male,21,95.26,stevenvargas@example.com,Mathematics
+77,Nicole,Duncan,Female,22,65.11,joneskaren@example.com,Electrical Engineering
+78,Jamie,Wilson,Female,19,89.63,gerickson@example.net,Mechanical Engineering
+79,Harold,Edwards,Female,20,94.68,carolreed@example.com,Mathematics
+80,John,Fields,Female,24,60.3,fmartinez@example.com,Computer Science
+81,Samuel,Miller,Female,24,87.46,wendymoore@example.org,Mechanical Engineering
+82,Ashley,Benson,Male,19,84.45,jacob48@example.org,Mathematics
+83,Steven,Patton,Female,18,83.53,rushangela@example.net,Computer Science
+84,Benjamin,Simmons,Female,20,87.62,carrie85@example.net,Physics
+85,Rachel,Johnson,Male,24,90.8,david63@example.net,Mathematics
+86,Sonya,Roberts,Female,21,70.61,wbraun@example.net,Physics
+87,Donald,Mccoy,Female,19,70.08,xliu@example.com,Electrical Engineering
+88,Clinton,Goodwin,Male,24,95.02,watsontodd@example.com,Mechanical Engineering
+89,Sarah,Gray,Female,21,86.14,iacevedo@example.net,Computer Science
+90,Thomas,Montes,Female,24,87.44,browningmartin@example.com,Physics
+91,Cindy,Berg,Female,25,81.28,richard51@example.net,Mechanical Engineering
+92,Rachel,Nielsen,Male,18,92.95,robertstewart@example.org,Mathematics
+93,Amy,Stevenson,Male,22,86.78,williamflynn@example.net,Physics
+94,Jacob,Ruiz,Male,24,80.62,rodrigueztyrone@example.org,Electrical Engineering
+95,David,Vargas,Male,25,76.27,rodney85@example.net,Physics
+96,Angela,Wilson,Female,24,71.64,eweeks@example.com,Mechanical Engineering
+97,Heather,Kelly,Female,25,92.34,juliegarcia@example.net,Electrical Engineering
+98,Jeffrey,Arroyo,Female,25,95.5,gloriaschneider@example.net,Mechanical Engineering
+99,Carolyn,Hammond,Female,24,84.76,laurajohnson@example.net,Mathematics
+100,Kathryn,Hale,Female,19,82.41,sullivanabigail@example.net,Computer Science
+101,Eric,Hernandez,Female,18,83.46,jody43@example.org,Mechanical Engineering
+102,Brianna,Wright,Female,25,64.45,cbailey@example.org,Mathematics
+103,Anthony,Lowery,Male,25,94.08,vdavis@example.com,Computer Science
+104,Norma,Moore,Male,22,79.15,jasonryan@example.net,Mechanical Engineering
+105,Jordan,Wright,Male,20,74.65,conwaygloria@example.com,Mechanical Engineering
+106,Scott,Walker,Male,21,78.68,brenda96@example.com,Mathematics
+107,Jeffrey,Booth,Male,18,77.76,ana86@example.net,Computer Science
+108,Jamie,Williams,Male,18,68.22,cindyallen@example.org,Electrical Engineering
+109,Lawrence,Roth,Female,23,72.5,adam86@example.net,Electrical Engineering
+110,Ryan,May,Male,20,84.46,kimberly98@example.org,Mechanical Engineering
+111,Michael,Garcia,Female,19,83.36,brittany93@example.net,Electrical Engineering
+112,Christopher,Reyes,Male,20,99.96,zachary86@example.net,Physics
+113,Kaitlyn,Smith,Female,18,79.45,robert20@example.org,Electrical Engineering
+114,Audrey,Moore,Male,24,67.38,connersamantha@example.org,Electrical Engineering
+115,Amanda,Gamble,Female,22,75.76,christinemurphy@example.org,Mechanical Engineering
+116,Mark,Martinez,Male,20,89.22,goodwinzachary@example.net,Electrical Engineering
+117,Mitchell,Martinez,Female,24,65.09,karenhenry@example.org,Computer Science
+118,Joseph,Martin,Female,18,92.81,jenniferarnold@example.net,Mechanical Engineering
+119,Felicia,Booker,Female,19,76.5,martin48@example.net,Mathematics
+120,Kevin,Knapp,Female,20,83.58,osbornebeverly@example.com,Computer Science
+121,Andrew,Gutierrez,Male,21,71.83,pclarke@example.net,Mechanical Engineering
+122,Cindy,Jordan,Male,24,69.23,hayescraig@example.net,Mechanical Engineering
+123,Morgan,Johnston,Female,20,96.27,crystal00@example.net,Mechanical Engineering
+124,Melissa,Smith,Female,20,62.35,isaac94@example.com,Mathematics
+125,Janet,Henderson,Male,25,94.18,anthony96@example.com,Physics
+126,Timothy,Hernandez,Male,25,96.79,tonya90@example.net,Electrical Engineering
+127,Christina,Mitchell,Female,24,69.87,monica16@example.org,Physics
+128,Carolyn,Swanson,Female,21,90.58,tbrown@example.org,Mathematics
+129,Jessica,Delgado,Female,19,60.58,penny25@example.net,Mathematics
+130,Tonya,Martinez,Female,22,96.4,joseph57@example.net,Computer Science
+131,Kenneth,Graham,Female,20,76.71,wilkinsjennifer@example.org,Mathematics
+132,Justin,Harrison,Female,25,96.18,crawfordjeffery@example.org,Computer Science
+133,Rebecca,Holland,Male,23,86.56,jessica56@example.com,Physics
+134,Tony,Taylor,Male,18,60.2,karenbrown@example.com,Physics
+135,Evan,Erickson,Female,21,63.8,nguyendavid@example.net,Mechanical Engineering
+136,Dennis,Valentine,Female,24,67.49,tylerburke@example.org,Mathematics
+137,Joshua,Warner,Female,25,91.2,michael93@example.org,Physics
+138,Steven,Delacruz,Female,21,77.67,justinsingleton@example.net,Mathematics
+139,Amy,Campos,Male,22,82.52,justin57@example.net,Mathematics
+140,Edward,Smith,Female,25,62.04,robin33@example.com,Computer Science
+141,Joseph,Mcgee,Female,20,71.88,hudsoncaroline@example.com,Computer Science
+142,Diana,Peterson,Male,21,95.0,matthew80@example.com,Mechanical Engineering
+143,Jason,Garcia,Female,22,62.43,joseph57@example.com,Mathematics
+144,Anthony,Castillo,Male,25,86.6,michellevincent@example.net,Physics
+145,William,Gross,Female,23,93.97,smalltaylor@example.com,Physics
+146,Joseph,Gilbert,Male,25,66.8,williamssandra@example.net,Mathematics
+147,Michael,Espinoza,Male,18,62.75,rickfarmer@example.net,Mathematics
+148,Lee,Navarro,Male,22,74.43,sheena36@example.org,Mechanical Engineering
+149,Mariah,Taylor,Male,24,77.72,dustin80@example.net,Computer Science
+150,Alfred,Clark,Female,22,69.48,amber05@example.net,Physics
+151,Michelle,Martin,Female,19,79.51,james54@example.org,Mechanical Engineering
+152,Jason,Powers,Male,20,86.52,lbrown@example.net,Physics
+153,Emma,Perez,Male,18,83.15,tstanley@example.org,Computer Science
+154,James,Riley,Female,22,83.48,mgibbs@example.net,Electrical Engineering
+155,Joshua,Brown,Female,18,79.63,jessicamartin@example.com,Mechanical Engineering
+156,Rodney,Johnson,Male,21,75.33,lindamitchell@example.com,Computer Science
+157,Ian,Williams,Female,22,96.23,brad85@example.com,Physics
+158,Andrea,Jones,Female,18,89.47,hcollier@example.com,Mathematics
+159,Phillip,Schneider,Male,24,63.03,alec88@example.org,Physics
+160,Patricia,Becker,Male,25,85.28,qmaxwell@example.net,Electrical Engineering
+161,Sean,Blake,Male,24,69.41,jonathancoffey@example.org,Mechanical Engineering
+162,Timothy,Gould,Female,18,62.35,kingtina@example.org,Mechanical Engineering
+163,Greg,Campbell,Female,23,97.43,ronaldrodriguez@example.org,Physics
+164,Samantha,Roberts,Female,19,83.82,rogersrobin@example.com,Mathematics
+165,Stephanie,Travis,Male,18,64.99,ochoaryan@example.com,Mathematics
+166,Jessica,Gonzalez,Female,25,80.62,thompsontroy@example.net,Mathematics
+167,Erin,Taylor,Female,19,81.51,john75@example.net,Electrical Engineering
+168,Brenda,Nicholson,Female,25,83.89,ricechristopher@example.com,Mathematics
+169,Sergio,Costa,Male,20,97.25,sharonhall@example.net,Mechanical Engineering
+170,Joe,Pierce,Male,18,63.53,alexandra77@example.org,Mechanical Engineering
+171,Matthew,Mckay,Female,23,62.11,tcline@example.org,Computer Science
+172,Andrew,Sellers,Male,22,60.93,thomasking@example.net,Mathematics
+173,Walter,Owen,Male,25,91.96,charles68@example.org,Physics
+174,Rachel,Jones,Male,24,85.67,davidcooper@example.org,Mechanical Engineering
+175,Bobby,Williams,Male,21,95.7,pwhite@example.org,Mechanical Engineering
+176,Erica,Neal,Female,22,77.35,montesdennis@example.net,Electrical Engineering
+177,Frank,Harrison,Male,22,97.24,hamiltondavid@example.com,Mechanical Engineering
+178,Daniel,Moore,Female,21,75.62,uwhite@example.com,Mechanical Engineering
+179,Charles,Hobbs,Male,19,96.92,wellsallison@example.org,Electrical Engineering
+180,Joseph,Evans,Male,23,90.25,david78@example.org,Computer Science
+181,Tiffany,Newman,Male,23,94.49,rebecca03@example.com,Computer Science
+182,Daniel,Myers,Female,22,77.75,kimberlyhahn@example.net,Physics
+183,Sherry,Wright,Female,22,60.82,uwyatt@example.org,Physics
+184,Bryan,Walton,Female,20,83.98,xstanton@example.org,Mathematics
+185,Dustin,Jones,Male,22,97.97,wilsonscott@example.net,Mechanical Engineering
+186,Cynthia,Walter,Female,19,91.98,ssantos@example.org,Computer Science
+187,Bradley,Costa,Female,23,96.61,garcialinda@example.com,Mechanical Engineering
+188,Gregory,Ramirez,Female,22,86.82,bromero@example.org,Electrical Engineering
+189,Linda,Smith,Female,21,73.87,matthew72@example.com,Physics
+190,Kelly,Rodriguez,Female,23,62.87,hardybrett@example.net,Mechanical Engineering
+191,Carolyn,Craig,Female,21,72.9,crystal47@example.org,Computer Science
+192,Sandra,Russell,Male,25,60.01,beth88@example.org,Mechanical Engineering
+193,Krista,Chandler,Female,24,65.6,natashabrown@example.com,Electrical Engineering
+194,Elizabeth,Mccoy,Male,20,84.14,esparzamark@example.org,Physics
+195,William,Davis,Male,18,71.73,meyerlauren@example.org,Mechanical Engineering
+196,Krista,Carrillo,Female,25,87.55,foxchristopher@example.com,Physics
+197,Andrew,Stephenson,Female,25,94.89,conradrachel@example.com,Electrical Engineering
+198,Jacqueline,Foster,Female,19,94.87,hurleydonna@example.com,Physics
+199,Samuel,Parker,Male,20,99.86,sherryjones@example.net,Mathematics
+200,Christina,Mata,Male,25,69.96,afischer@example.net,Electrical Engineering
+201,James,Foster,Male,18,63.68,lawrencemcgrath@example.net,Computer Science
+202,Tina,Davis,Female,21,95.88,jillanderson@example.com,Mechanical Engineering
+203,Lisa,Holland,Female,19,84.54,rodneybrown@example.net,Mechanical Engineering
+204,Jeffrey,Davis,Female,23,94.08,uhughes@example.net,Computer Science
+205,Martin,Baker,Female,19,60.21,cheryl76@example.net,Mathematics
+206,Megan,Pugh,Male,25,82.83,rbecker@example.com,Computer Science
+207,Joseph,Cox,Female,23,87.46,mahoneyashley@example.com,Physics
+208,Michele,Rhodes,Female,19,93.35,marcjackson@example.org,Electrical Engineering
+209,Jennifer,Harper,Male,25,66.28,joshuabell@example.net,Mathematics
+210,Rebecca,Willis,Male,24,72.54,sparkskevin@example.net,Mechanical Engineering
+211,Amber,Hernandez,Male,20,92.58,charles79@example.org,Mechanical Engineering
+212,Travis,Coleman,Male,22,66.86,matthew29@example.net,Mathematics
+213,Holly,Santiago,Male,20,93.18,abigail80@example.org,Electrical Engineering
+214,Audrey,Dunn,Male,25,79.22,kwells@example.org,Mechanical Engineering
+215,Jillian,Myers,Female,23,77.84,grobinson@example.org,Physics
+216,Anthony,Hoffman,Female,24,86.36,michael91@example.org,Computer Science
+217,Molly,Peters,Female,25,75.45,leejacob@example.com,Physics
+218,Michael,Sexton,Female,20,94.24,meganbenitez@example.com,Mathematics
+219,Jackson,Ellis,Female,19,69.04,zmartinez@example.net,Mathematics
+220,Zachary,Robinson,Male,22,98.86,vprice@example.com,Mechanical Engineering
+221,Joshua,Wood,Female,22,63.92,steven84@example.com,Physics
+222,Joe,Scott,Female,20,94.0,leah63@example.org,Mechanical Engineering
+223,Elizabeth,Shaffer,Female,18,82.76,meyermelissa@example.com,Mechanical Engineering
+224,Cory,Norman,Female,22,89.24,davissandra@example.org,Computer Science
+225,Mark,Mendoza,Male,18,94.49,zsutton@example.org,Computer Science
+226,Tracie,Gonzales,Male,19,87.23,hammondjonathan@example.org,Computer Science
+227,Zachary,Johnson,Male,25,73.15,dwagner@example.org,Computer Science
+228,Christopher,Davis,Male,21,78.18,edavis@example.net,Mechanical Engineering
+229,Michael,Tran,Male,18,91.82,charles41@example.com,Mathematics
+230,Gary,Price,Female,20,83.18,jessicalewis@example.com,Electrical Engineering
+231,Andrew,Clayton,Female,23,77.03,teresarios@example.org,Computer Science
+232,Ethan,Jones,Female,19,71.48,lowerybobby@example.net,Mechanical Engineering
+233,Karen,Mcdonald,Male,24,70.33,penajack@example.com,Electrical Engineering
+234,Michael,Lopez,Male,21,83.76,rachaelpotter@example.org,Electrical Engineering
+235,Michael,Davis,Male,25,85.41,youngsarah@example.com,Physics
+236,Mark,Roberts,Male,18,80.96,mark96@example.com,Physics
+237,Christopher,Reyes,Female,18,79.64,daniel66@example.net,Computer Science
+238,Edward,Howell,Male,23,67.46,scunningham@example.org,Mathematics
+239,Michael,Summers,Female,23,79.5,johnsondavid@example.org,Mechanical Engineering
+240,Luis,Simmons,Female,19,75.7,douglas29@example.org,Mathematics
+241,Dennis,Ho,Male,20,97.41,toddpaul@example.net,Mechanical Engineering
+242,Sabrina,Garcia,Female,18,73.92,johnathanbrown@example.com,Mechanical Engineering
+243,Kimberly,Ray,Male,25,72.17,jacquelineburns@example.org,Computer Science
+244,Cameron,Bates,Male,22,75.4,dawsonshannon@example.net,Mechanical Engineering
+245,Tina,Merritt,Male,20,68.55,matthewroberts@example.com,Physics
+246,Robert,Newton,Female,20,68.32,mary11@example.com,Computer Science
+247,Jessica,Reed,Female,21,88.16,emartinez@example.net,Mathematics
+248,Holly,Roberts,Male,20,86.4,patriciapeters@example.org,Physics
+249,Gwendolyn,Guzman,Male,24,88.68,mary62@example.org,Computer Science
+250,Sarah,Roberts,Female,19,85.13,michaelhale@example.com,Computer Science
+251,Spencer,Harvey,Female,23,63.87,amandajohnson@example.net,Mechanical Engineering
+252,Danny,Jenkins,Male,21,80.5,snguyen@example.org,Electrical Engineering
+253,Shawn,Washington,Female,25,88.64,perrytanya@example.org,Mathematics
+254,Mary,Hunter,Female,18,86.27,donaldjones@example.com,Computer Science
+255,John,Jenkins,Male,25,80.81,ojohnson@example.org,Computer Science
+256,Steven,Nelson,Male,24,94.51,barnettsamantha@example.net,Physics
+257,Courtney,Thomas,Female,22,67.34,kylehall@example.net,Physics
+258,Jerry,Reeves,Female,25,70.75,lmoore@example.org,Physics
+259,Scott,Huang,Female,23,69.76,carolkelly@example.com,Electrical Engineering
+260,Corey,Thompson,Male,21,89.8,ballisaiah@example.org,Electrical Engineering
+261,Michael,Williams,Male,20,96.25,umendez@example.com,Physics
+262,Samuel,Edwards,Male,25,71.78,blackwelljennifer@example.org,Electrical Engineering
+263,John,Stephenson,Male,23,70.79,svargas@example.org,Mechanical Engineering
+264,Ronald,Price,Male,23,74.03,steve79@example.net,Mathematics
+265,Kathleen,Lee,Male,21,95.78,fosterkelly@example.net,Physics
+266,Vickie,Gilbert,Female,22,87.57,coxpaul@example.org,Computer Science
+267,Emily,Macdonald,Male,23,71.27,williamgoodwin@example.org,Electrical Engineering
+268,Jesus,James,Female,18,85.5,qwilliams@example.org,Mechanical Engineering
+269,Connie,Smith,Male,25,94.03,xhoward@example.org,Mathematics
+270,Shannon,Ayala,Male,21,70.7,fwilson@example.org,Mathematics
+271,Anthony,Trujillo,Female,19,96.32,zachary53@example.net,Computer Science
+272,John,Nguyen,Male,19,96.0,mckayjames@example.com,Computer Science
+273,Nancy,Castillo,Male,25,78.59,kara06@example.org,Mathematics
+274,Cody,Case,Female,25,97.59,smithmark@example.org,Physics
+275,Tracey,Mejia,Male,20,71.47,ichen@example.org,Physics
+276,Jennifer,Lewis,Male,22,87.61,xtyler@example.org,Mathematics
+277,Laura,Obrien,Female,20,87.85,fcosta@example.org,Electrical Engineering
+278,Kimberly,Carlson,Male,22,75.6,gabrielle16@example.com,Electrical Engineering
+279,Ruben,Sutton,Male,24,85.46,jenniferhill@example.net,Mechanical Engineering
+280,Jordan,Sullivan,Female,24,81.0,kennedyemily@example.com,Mechanical Engineering
+281,Anthony,Smith,Male,25,86.01,roberthampton@example.net,Mechanical Engineering
+282,Kathryn,Ramos,Female,23,90.55,dpena@example.com,Computer Science
+283,Bradley,Baker,Female,21,87.54,melissasheppard@example.net,Mechanical Engineering
+284,Stacy,Bender,Male,20,87.5,broth@example.org,Mechanical Engineering
+285,Raymond,Hunt,Male,19,71.42,youngchristine@example.com,Physics
+286,Jeremy,Parker,Male,24,83.3,willie44@example.com,Physics
+287,Gary,Moore,Male,24,81.14,paula37@example.com,Physics
+288,Lauren,Wilkerson,Male,24,69.4,michelleho@example.org,Mathematics
+289,David,Cunningham,Female,23,92.62,richard44@example.net,Mathematics
+290,Jonathan,Ballard,Male,20,95.8,davidgilbert@example.net,Mathematics
+291,Richard,Spencer,Female,18,87.86,cchase@example.net,Mechanical Engineering
+292,Renee,Evans,Male,21,81.16,cynthiadrake@example.org,Electrical Engineering
+293,Nicole,Lucas,Female,19,82.76,mclark@example.org,Mathematics
+294,Angela,Burnett,Male,21,74.46,williamsjohn@example.com,Mechanical Engineering
+295,Eric,Humphrey,Female,22,95.94,kconley@example.net,Electrical Engineering
+296,Philip,Duke,Male,20,73.47,abigail24@example.net,Electrical Engineering
+297,James,Figueroa,Female,23,68.39,dnelson@example.com,Mechanical Engineering
+298,Thomas,Zuniga,Male,19,87.59,smithjordan@example.net,Mathematics
+299,Jennifer,Smith,Female,21,77.98,robinfuller@example.com,Electrical Engineering
+300,Anthony,Moore,Male,20,77.0,sle@example.net,Physics
+301,Carol,Stokes,Male,25,76.18,hayesnathan@example.org,Mechanical Engineering
+302,Charles,Smith,Male,21,81.62,ycrawford@example.org,Physics
+303,Laura,Morris,Male,23,65.97,barbara67@example.net,Computer Science
+304,David,Rodriguez,Female,21,64.58,lgregory@example.net,Mechanical Engineering
+305,Ashley,Hansen,Male,19,94.86,joshua00@example.net,Physics
+306,Cindy,Fernandez,Male,18,70.67,marcia75@example.net,Mechanical Engineering
+307,Gabriel,Harvey,Female,25,68.36,claytonsheri@example.org,Electrical Engineering
+308,Justin,Peters,Male,24,85.11,riosdon@example.org,Electrical Engineering
+309,Mark,Singleton,Female,21,71.13,laura49@example.net,Mechanical Engineering
+310,Vickie,Hunt,Female,22,84.73,dgates@example.org,Physics
+311,Brandi,Hammond,Female,23,83.38,iwolf@example.com,Mechanical Engineering
+312,Andre,Snyder,Male,23,77.04,andrew41@example.net,Mathematics
+313,Brenda,Golden,Female,23,73.62,smithcrystal@example.com,Mathematics
+314,Mary,Martinez,Male,20,70.61,fritzjustin@example.net,Mechanical Engineering
+315,Daniel,Bowman,Female,23,70.8,kball@example.com,Physics
+316,Tommy,Fuentes,Male,19,92.69,paul88@example.net,Computer Science
+317,Bryan,Thomas,Female,23,81.0,aaron32@example.com,Mechanical Engineering
+318,Micheal,Russell,Male,21,83.63,markmurray@example.com,Mathematics
+319,Emily,Keith,Female,23,63.64,hgardner@example.org,Electrical Engineering
+320,Jacob,Williams,Female,20,69.5,kerrygraves@example.com,Physics
+321,Barbara,Vasquez,Male,22,75.11,simmonsjohn@example.org,Computer Science
+322,Cody,Smith,Female,21,79.43,hayleyreyes@example.net,Computer Science
+323,Steven,Perry,Female,24,99.78,smack@example.net,Mathematics
+324,Brooke,Butler,Female,22,74.07,donna23@example.com,Mechanical Engineering
+325,Tony,Harris,Male,25,76.31,maryhunt@example.com,Physics
+326,Katherine,Johnson,Female,18,79.27,donaldkim@example.net,Physics
+327,Nathaniel,Smith,Male,20,74.14,gflores@example.org,Electrical Engineering
+328,Haley,Bowman,Female,19,64.06,josephthomas@example.net,Mechanical Engineering
+329,Virginia,Leon,Female,18,64.22,millsbill@example.net,Physics
+330,John,Hill,Male,18,72.93,leblancjames@example.org,Electrical Engineering
+331,Erin,Green,Male,21,82.48,elizabethwells@example.net,Electrical Engineering
+332,Jared,Jenkins,Male,18,60.88,weaverdenise@example.net,Physics
+333,Michael,Smith,Male,24,85.58,justintapia@example.com,Computer Science
+334,Michael,Morales,Male,18,97.44,victoria21@example.com,Mathematics
+335,Jason,Neal,Female,19,68.32,jonathan88@example.org,Mathematics
+336,Andrew,Jones,Female,19,88.86,browndavid@example.net,Mathematics
+337,Joseph,Cooke,Female,20,87.97,kristenedwards@example.org,Electrical Engineering
+338,Michael,Dunn,Female,19,62.52,adelacruz@example.com,Electrical Engineering
+339,Eric,Berry,Male,18,73.27,gardnerjoshua@example.com,Computer Science
+340,Rebekah,Cooper,Male,23,89.21,xrussell@example.org,Computer Science
+341,Jacob,Gutierrez,Female,24,99.36,ssweeney@example.net,Electrical Engineering
+342,Kevin,Johnson,Female,20,76.48,aerickson@example.com,Computer Science
+343,Patrick,Singh,Male,18,84.98,englishgrant@example.org,Mathematics
+344,Andrew,Singh,Female,20,88.5,gregorysydney@example.org,Mathematics
+345,Barbara,Navarro,Female,25,84.42,gregory01@example.org,Mathematics
+346,Michael,Parrish,Female,19,90.14,mfranklin@example.net,Mechanical Engineering
+347,Jacob,Allison,Male,19,94.54,bdillon@example.net,Electrical Engineering
+348,Christina,Ponce,Female,19,63.16,jacqueline63@example.org,Mathematics
+349,Brianna,Woodward,Female,24,82.84,laura64@example.com,Mechanical Engineering
+350,Craig,Rodriguez,Female,23,93.0,prodriguez@example.com,Mathematics
+351,Christian,Perkins,Female,22,80.05,ramirezjohn@example.com,Electrical Engineering
+352,Nicole,Martin,Male,24,85.54,manuel68@example.com,Computer Science
+353,Jo,Mitchell,Female,20,77.94,zblake@example.net,Mechanical Engineering
+354,Seth,Brown,Male,24,65.77,nthompson@example.net,Electrical Engineering
+355,Carrie,Miller,Male,23,96.05,mosleyjohn@example.com,Mathematics
+356,Michael,Cabrera,Male,18,75.34,zchristensen@example.com,Physics
+357,Sherry,Lawson,Male,19,91.56,bakerjessica@example.org,Electrical Engineering
+358,Angela,Dunn,Male,18,75.46,agriffith@example.net,Computer Science
+359,Brian,Espinoza,Female,22,78.14,kelly41@example.com,Computer Science
+360,Rebecca,Burgess,Male,23,98.64,elijah09@example.com,Computer Science
+361,Jennifer,King,Female,19,70.65,stacyarias@example.com,Physics
+362,Rachel,Vaughan,Female,24,91.03,garciabarbara@example.org,Physics
+363,David,Graham,Male,22,82.75,brandyburns@example.org,Electrical Engineering
+364,Tamara,Clark,Male,25,65.89,carol21@example.net,Physics
+365,Elizabeth,Jones,Female,24,80.49,rachelglass@example.com,Mechanical Engineering
+366,Brandon,Cunningham,Male,23,65.42,conniekane@example.org,Electrical Engineering
+367,Tracy,Reyes,Male,25,72.06,william03@example.com,Electrical Engineering
+368,Diana,Carter,Male,25,86.04,ekennedy@example.net,Mechanical Engineering
+369,Robin,Hernandez,Female,18,65.85,jermainecharles@example.com,Mechanical Engineering
+370,Benjamin,Terrell,Female,25,92.57,amy08@example.org,Computer Science
+371,Kevin,Parsons,Male,20,95.21,lawrence64@example.com,Computer Science
+372,Suzanne,Ward,Male,22,86.93,jboone@example.net,Electrical Engineering
+373,James,Lopez,Female,23,90.62,ymartinez@example.com,Computer Science
+374,Melinda,Hunt,Female,23,88.83,gsuarez@example.net,Electrical Engineering
+375,Matthew,Wright,Male,19,67.66,cynthiareynolds@example.org,Mathematics
+376,Charles,Smith,Male,22,95.89,christophermoore@example.net,Mechanical Engineering
+377,Zachary,Ellis,Male,24,63.06,hmanning@example.net,Mathematics
+378,William,Haley,Male,23,89.99,ramirezchristopher@example.com,Mathematics
+379,William,Boyle,Female,22,89.81,elizabethhaynes@example.org,Mathematics
+380,Gregory,Russell,Male,21,64.76,holmesricky@example.net,Mechanical Engineering
+381,Robert,Ryan,Male,20,63.72,jimenezvictoria@example.net,Electrical Engineering
+382,Catherine,Duke,Female,19,92.36,laura43@example.net,Electrical Engineering
+383,David,Holland,Female,20,94.57,ojackson@example.net,Electrical Engineering
+384,Shannon,Green,Female,21,77.82,melissa13@example.org,Mechanical Engineering
+385,Allison,Thompson,Male,22,70.38,deannadaniels@example.net,Mechanical Engineering
+386,Brittany,Diaz,Female,19,66.48,donnajimenez@example.net,Physics
+387,Charles,Cabrera,Female,23,73.07,hjones@example.org,Mechanical Engineering
+388,Virginia,Johnson,Female,20,73.73,stacie35@example.net,Mechanical Engineering
+389,Ryan,Walker,Female,21,95.85,christopher75@example.org,Mechanical Engineering
+390,Nicholas,Harding,Female,19,64.23,christopherbaker@example.org,Mechanical Engineering
+391,Timothy,King,Male,25,73.29,johnsonmark@example.net,Electrical Engineering
+392,Robert,Evans,Male,25,67.23,cjackson@example.org,Mathematics
+393,Stefanie,Wilson,Male,24,93.06,scottlong@example.org,Mathematics
+394,Michael,Brown,Female,18,86.94,shepherdkaren@example.com,Physics
+395,Joshua,Reilly,Male,21,69.58,nicolebuck@example.org,Mathematics
+396,Stephanie,Brown,Male,19,85.84,heatherjohnson@example.net,Computer Science
+397,Monica,Wilson,Male,23,76.41,tracyramsey@example.com,Mechanical Engineering
+398,Megan,Lang,Female,21,95.21,harryknight@example.net,Computer Science
+399,Joy,Warren,Female,24,71.18,obarker@example.org,Mechanical Engineering
+400,Scott,Orr,Male,21,61.91,briantyler@example.com,Mechanical Engineering
+401,Alicia,Harrell,Female,21,64.0,nguyenmark@example.net,Mathematics
+402,Jon,Clay,Male,23,80.79,smithamanda@example.com,Mechanical Engineering
+403,Stephanie,Perez,Male,18,94.97,steven47@example.org,Physics
+404,Kelly,Jacobs,Female,19,61.95,elizabethflores@example.org,Mechanical Engineering
+405,Elizabeth,Irwin,Female,21,98.51,mary59@example.com,Mathematics
+406,Sandra,Campbell,Male,24,64.76,jessica17@example.net,Computer Science
+407,Katelyn,Smith,Male,20,71.43,mercerdebra@example.com,Mechanical Engineering
+408,Judy,Mason,Female,20,76.95,walkerjulie@example.com,Mathematics
+409,Amy,Parker,Male,21,81.98,christina85@example.org,Physics
+410,Jared,Harris,Male,24,94.8,grantsean@example.org,Physics
+411,Bruce,Sloan,Male,24,66.68,kevin53@example.net,Electrical Engineering
+412,Tiffany,Best,Female,25,60.54,ztorres@example.org,Electrical Engineering
+413,Pamela,Jackson,Female,19,62.14,christopher35@example.net,Physics
+414,Shawn,Rios,Female,19,64.71,james39@example.org,Mathematics
+415,Natasha,Bowman,Female,23,66.19,melissa61@example.org,Physics
+416,Pamela,Thompson,Male,21,80.51,hhernandez@example.com,Mechanical Engineering
+417,Elizabeth,Fitzgerald,Female,21,76.79,ustevenson@example.com,Physics
+418,Billy,Green,Female,24,65.77,katie67@example.net,Computer Science
+419,William,Jones,Female,21,95.11,martinezwilliam@example.net,Mathematics
+420,Steven,Davidson,Male,20,64.34,ymills@example.org,Physics
+421,Heather,Goodwin,Male,24,65.1,timothybrown@example.net,Electrical Engineering
+422,Justin,Greer,Female,25,74.15,samuel38@example.org,Electrical Engineering
+423,Benjamin,Wood,Female,23,84.97,lisajackson@example.org,Computer Science
+424,Bradley,Clements,Male,24,93.52,laura78@example.net,Physics
+425,Karla,Jones,Male,20,60.67,alvarezcorey@example.org,Computer Science
+426,Stephanie,Gregory,Female,23,63.35,charleskelly@example.com,Computer Science
+427,Kelly,Warren,Male,20,81.39,kyle07@example.com,Electrical Engineering
+428,Jennifer,Hernandez,Male,23,77.48,kaitlynfranklin@example.org,Physics
+429,David,Briggs,Male,19,98.06,tanyacook@example.com,Mathematics
+430,William,Freeman,Male,18,70.56,ugreen@example.org,Physics
+431,Jennifer,Walker,Female,22,89.32,justin71@example.org,Mechanical Engineering
+432,Julia,Allen,Female,23,98.46,boyererin@example.com,Mathematics
+433,Denise,Ruiz,Female,22,71.81,foleyjoanna@example.com,Mechanical Engineering
+434,Antonio,Mcfarland,Female,24,73.61,shafferkristen@example.com,Computer Science
+435,Elizabeth,Schmidt,Male,25,99.88,andersonnicole@example.com,Electrical Engineering
+436,Jesse,Haas,Female,24,65.03,juliecampbell@example.org,Electrical Engineering
+437,Susan,Thompson,Male,25,90.62,paulavelazquez@example.net,Mathematics
+438,Tammy,Sullivan,Male,19,65.0,vwalker@example.net,Mechanical Engineering
+439,Michael,Donaldson,Male,24,79.03,gomezkaren@example.com,Mathematics
+440,Jose,Nguyen,Male,19,69.96,sotomonica@example.net,Mathematics
+441,Taylor,Moss,Female,21,89.68,andersonteresa@example.net,Electrical Engineering
+442,Krista,Chen,Female,25,78.38,dylanhernandez@example.com,Mechanical Engineering
+443,Jacob,Alexander,Female,18,76.62,keithhill@example.com,Physics
+444,Keith,Figueroa,Male,24,98.07,delgadowhitney@example.com,Computer Science
+445,Rodney,Foster,Male,20,72.46,sevans@example.org,Mathematics
+446,Carrie,Hardin,Male,22,76.16,urogers@example.com,Computer Science
+447,Kathy,Phillips,Male,19,83.99,michaelthompson@example.org,Computer Science
+448,Larry,Ellis,Male,22,79.51,zhartman@example.net,Mathematics
+449,Cynthia,Smith,Male,24,78.47,robertcortez@example.net,Physics
+450,Christopher,West,Female,20,62.74,wardsarah@example.com,Computer Science
+451,Angel,Bryan,Male,22,68.01,garrett76@example.org,Computer Science
+452,Taylor,Sanchez,Male,21,69.25,charlesjennings@example.com,Physics
+453,Kelsey,Solis,Male,25,69.83,kimberlyduncan@example.com,Mechanical Engineering
+454,James,Vasquez,Female,24,94.41,ugordon@example.com,Physics
+455,Jennifer,Thomas,Male,19,66.32,scottblevins@example.org,Computer Science
+456,Brian,Silva,Female,18,93.47,peter68@example.com,Mathematics
+457,Kelsey,Davis,Male,19,77.21,irodgers@example.net,Electrical Engineering
+458,Thomas,Oneill,Male,21,78.0,vthompson@example.org,Mechanical Engineering
+459,Emma,Giles,Male,21,85.3,christinemalone@example.org,Electrical Engineering
+460,Shannon,Scott,Male,21,88.4,bruce65@example.net,Electrical Engineering
+461,Hannah,Diaz,Female,21,89.21,rachel33@example.com,Computer Science
+462,Lisa,Obrien,Female,20,71.28,jennifer80@example.net,Computer Science
+463,Evelyn,Sherman,Male,19,62.45,lisahernandez@example.com,Physics
+464,Sandra,Jacobs,Female,21,73.05,heather85@example.org,Physics
+465,Lauren,Rodriguez,Female,22,97.01,rkennedy@example.com,Electrical Engineering
+466,Jacob,Nelson,Female,20,98.6,ubailey@example.net,Mathematics
+467,Erica,Potts,Female,24,89.64,ucastaneda@example.com,Computer Science
+468,Kenneth,Harris,Female,25,76.5,lolson@example.net,Computer Science
+469,Lauren,Kim,Female,21,76.39,travisturner@example.com,Electrical Engineering
+470,Alex,Boyle,Female,25,80.27,wdickerson@example.org,Mathematics
+471,Daniel,Rice,Female,23,95.68,tracy35@example.net,Electrical Engineering
+472,Charlene,Lopez,Female,18,68.07,randall92@example.com,Mathematics
+473,Joe,Jackson,Male,18,82.87,spencerkatherine@example.org,Electrical Engineering
+474,Richard,Wallace,Male,21,99.3,dana44@example.org,Electrical Engineering
+475,April,Franklin,Male,21,70.71,christine26@example.com,Mechanical Engineering
+476,Joshua,Watkins,Female,20,94.11,mary81@example.org,Mechanical Engineering
+477,Jerry,Donaldson,Female,24,73.48,alison22@example.net,Electrical Engineering
+478,Tabitha,Jennings,Male,20,63.47,hansenbeth@example.org,Electrical Engineering
+479,Kevin,Pugh,Female,19,70.93,stevenstevenson@example.net,Computer Science
+480,Steven,Hill,Male,24,98.88,moniqueserrano@example.org,Electrical Engineering
+481,Jennifer,Melton,Female,18,89.21,woodmarcus@example.com,Computer Science
+482,Stephanie,Miller,Female,23,76.89,lcampos@example.org,Computer Science
+483,Thomas,Fry,Female,21,96.48,kari87@example.net,Physics
+484,Kelli,Vargas,Male,25,75.92,michael90@example.org,Mechanical Engineering
+485,Vincent,Marsh,Female,21,73.74,richard36@example.net,Physics
+486,Matthew,Sanchez,Male,25,64.53,brittney41@example.com,Electrical Engineering
+487,Nicole,Grant,Female,25,84.46,fkennedy@example.org,Computer Science
+488,Larry,Sandoval,Female,25,63.94,anthony33@example.org,Mathematics
+489,Heather,Browning,Female,19,74.11,michaelbentley@example.org,Mathematics
+490,Angela,Pena,Female,19,96.11,esanchez@example.net,Physics
+491,Aaron,Wright,Female,24,72.13,mbennett@example.com,Mathematics
+492,Deanna,Singh,Male,18,60.87,fischeralejandro@example.com,Mathematics
+493,Bradley,Guzman,Male,24,64.55,christopherward@example.com,Mechanical Engineering
+494,Patricia,Carter,Female,20,87.84,ocline@example.org,Mechanical Engineering
+495,Kristine,Williams,Female,18,86.6,richard07@example.net,Mathematics
+496,Judith,Martinez,Male,23,70.93,bobbysalinas@example.org,Physics
+497,Michael,Hodge,Male,18,97.02,amyharrison@example.net,Computer Science
+498,Denise,Walker,Male,22,67.18,skinnerhelen@example.com,Electrical Engineering
+499,Matthew,Parker,Female,24,62.97,jamesjimenez@example.net,Electrical Engineering
+500,Philip,Chambers,Male,18,61.88,youngjason@example.com,Physics
+501,Erin,Jones,Female,25,85.09,wrightjoshua@example.com,Electrical Engineering
+502,Brandy,Cross,Male,23,73.52,rthomas@example.org,Mathematics
+503,Robert,Bradley,Female,22,84.78,christophercastaneda@example.com,Mathematics
+504,Erik,Reynolds,Female,18,79.34,jessicadoyle@example.org,Mechanical Engineering
+505,Kelsey,Flowers,Female,18,73.79,juan19@example.org,Computer Science
+506,Melissa,Pearson,Male,21,77.55,shenry@example.net,Mathematics
+507,John,Douglas,Female,22,79.36,kristinehensley@example.org,Mechanical Engineering
+508,Eric,Hall,Male,25,69.54,tracy63@example.net,Mechanical Engineering
+509,Tracy,Higgins,Male,25,87.38,jennifer05@example.net,Mathematics
+510,Michael,Santos,Male,21,95.16,hayesjasmine@example.com,Mechanical Engineering
+511,Brianna,Shaffer,Male,22,70.35,joseph60@example.org,Physics
+512,Timothy,Bell,Male,23,98.83,seth03@example.net,Mathematics
+513,Suzanne,Hale,Female,20,96.96,usloan@example.com,Mechanical Engineering
+514,Anna,Spears,Female,22,83.04,gclarke@example.org,Computer Science
+515,Amanda,Gray,Female,19,63.57,jarvislori@example.org,Mechanical Engineering
+516,Christina,Stevens,Female,25,66.17,jennifersmith@example.com,Computer Science
+517,Lindsay,Carter,Male,21,87.55,gmartinez@example.net,Mechanical Engineering
+518,Christopher,Garcia,Female,19,73.91,fmitchell@example.com,Computer Science
+519,Austin,Franco,Female,23,62.64,jessica55@example.org,Electrical Engineering
+520,Alicia,Rodriguez,Male,21,68.69,snyderallison@example.com,Physics
+521,Amanda,Hodges,Male,19,90.39,jordan68@example.com,Physics
+522,Sydney,Black,Male,25,78.88,andersonmatthew@example.com,Mathematics
+523,Amanda,Crawford,Male,18,78.65,vickie24@example.net,Electrical Engineering
+524,Jorge,Adams,Female,21,75.79,jerry51@example.com,Electrical Engineering
+525,Sue,Robinson,Female,22,66.8,shawchristina@example.org,Mathematics
+526,Kimberly,Brown,Female,25,91.82,karenstewart@example.net,Physics
+527,Emily,Mcneil,Female,23,78.09,jpollard@example.com,Physics
+528,Adam,Hernandez,Male,21,80.22,andrewchristensen@example.com,Mechanical Engineering
+529,Lisa,Sanchez,Female,19,70.93,amiller@example.net,Electrical Engineering
+530,David,Roth,Male,21,84.11,destinyrangel@example.net,Physics
+531,Matthew,Vasquez,Male,20,68.98,jasonrush@example.com,Mechanical Engineering
+532,Jose,Davis,Female,20,83.54,jamesbentley@example.com,Computer Science
+533,Dennis,Franklin,Male,20,65.81,richard42@example.org,Mathematics
+534,John,Cruz,Male,19,99.96,scott24@example.net,Computer Science
+535,Brandon,Castillo,Male,18,72.31,collinsjanice@example.org,Physics
+536,Sarah,Warren,Female,20,78.85,tammyyoung@example.com,Mathematics
+537,Thomas,Adams,Female,19,97.35,erinmendez@example.com,Physics
+538,Fernando,Scott,Female,19,88.11,juan23@example.org,Mechanical Engineering
+539,Steven,Sanchez,Female,21,69.04,nellison@example.net,Mathematics
+540,Scott,Bradley,Female,24,90.89,ngardner@example.net,Mathematics
+541,Shawn,Jackson,Male,20,66.46,donna22@example.org,Physics
+542,Troy,Arnold,Male,19,85.69,sparker@example.com,Mechanical Engineering
+543,Mary,Wyatt,Male,25,83.0,wendyalexander@example.org,Mechanical Engineering
+544,Karen,Gonzalez,Female,19,68.98,brandonsims@example.net,Mechanical Engineering
+545,Ruben,Blake,Male,22,87.73,harperkim@example.com,Mechanical Engineering
+546,Brandon,Mason,Female,25,64.82,peterrichardson@example.net,Physics
+547,Mark,Krueger,Male,22,91.95,buchananjennifer@example.com,Electrical Engineering
+548,Michelle,Flores,Female,19,65.08,melissa89@example.org,Electrical Engineering
+549,Jeffrey,Norris,Male,24,83.24,jaredtorres@example.org,Electrical Engineering
+550,Margaret,Ross,Male,21,88.49,teresa38@example.net,Electrical Engineering
+551,Elijah,Fields,Female,22,91.48,bernardcody@example.net,Mathematics
+552,Jeffrey,Webster,Female,24,99.52,taylor73@example.org,Mathematics
+553,Anthony,Morgan,Male,19,64.2,christinepope@example.org,Computer Science
+554,Stacey,Wolfe,Male,20,67.38,kaylacraig@example.com,Mathematics
+555,Ashley,Mcbride,Male,23,97.98,joshualogan@example.org,Computer Science
+556,Olivia,Foster,Female,22,92.58,robertconner@example.net,Mathematics
+557,Gabriel,Singh,Female,20,75.54,shirleythompson@example.org,Mechanical Engineering
+558,Nicholas,Simmons,Male,19,72.7,qbrandt@example.org,Mathematics
+559,Audrey,Duncan,Female,21,77.78,tpatel@example.net,Physics
+560,Christina,Brooks,Male,24,72.26,ptaylor@example.com,Computer Science
+561,Vanessa,Brown,Female,19,95.09,collinsmichael@example.net,Physics
+562,Jerry,Hodges,Female,19,97.05,travisedwards@example.com,Mathematics
+563,Christopher,Boyd,Male,20,80.57,seanburke@example.net,Computer Science
+564,Joshua,Baldwin,Female,20,65.23,romerojohn@example.com,Mechanical Engineering
+565,Larry,Wright,Female,23,77.95,theresajohnson@example.net,Mechanical Engineering
+566,David,Hodges,Male,21,77.03,nedwards@example.org,Mechanical Engineering
+567,Brittney,Gardner,Female,25,67.1,sharpjennifer@example.org,Electrical Engineering
+568,Michael,Green,Female,18,98.73,xconway@example.com,Physics
+569,Tyler,Flores,Male,20,77.29,ann15@example.net,Computer Science
+570,Daniel,Holmes,Male,21,96.33,laurie21@example.org,Mathematics
+571,Lauren,Christensen,Female,23,84.8,ibutler@example.net,Mechanical Engineering
+572,Sherry,Morton,Male,18,92.68,jamiechandler@example.org,Mechanical Engineering
+573,Matthew,Fox,Female,20,78.41,michelle51@example.net,Computer Science
+574,Sara,Thompson,Female,19,78.16,walkerjohn@example.org,Computer Science
+575,Paul,Bass,Female,18,70.79,sarah44@example.org,Electrical Engineering
+576,Annette,Rivera,Male,21,84.66,anitathomas@example.net,Computer Science
+577,Christopher,Hoffman,Male,24,72.0,sarah79@example.com,Mechanical Engineering
+578,Justin,David,Female,22,84.93,christopherpugh@example.com,Mathematics
+579,Edgar,Morrison,Male,24,68.72,lindawolfe@example.net,Physics
+580,Nicholas,Benson,Female,24,92.75,simmonsstephen@example.com,Mechanical Engineering
+581,Melanie,Cooper,Female,22,90.99,johnsonalexander@example.com,Physics
+582,Lance,Washington,Female,20,94.28,hernandezsteven@example.net,Electrical Engineering
+583,Heather,Wright,Male,24,89.65,jmccullough@example.net,Computer Science
+584,Tyler,Smith,Male,20,94.41,megansmith@example.com,Mathematics
+585,Ashley,Leach,Male,21,63.87,michael17@example.net,Mechanical Engineering
+586,Brent,Conley,Male,20,99.58,seanwolf@example.net,Computer Science
+587,Peter,Gutierrez,Female,23,94.51,alyssaduarte@example.com,Mathematics
+588,Jacob,Molina,Male,21,87.32,pjenkins@example.net,Computer Science
+589,Charles,Powell,Male,24,80.72,fpruitt@example.com,Mechanical Engineering
+590,Tiffany,Salazar,Male,19,70.38,eric09@example.net,Electrical Engineering
+591,Thomas,Tucker,Male,23,62.83,rachelrusso@example.net,Mathematics
+592,Jennifer,Luna,Female,23,62.01,patricia94@example.com,Computer Science
+593,Samantha,Collins,Female,21,78.38,michael76@example.net,Mathematics
+594,Veronica,Jackson,Male,19,68.13,peterromero@example.net,Electrical Engineering
+595,Kelly,Hernandez,Female,24,70.64,bfowler@example.net,Mathematics
+596,Lynn,Jordan,Male,19,70.1,riveraandrew@example.com,Mechanical Engineering
+597,Amber,Reyes,Female,19,96.44,rodney91@example.net,Mechanical Engineering
+598,Helen,Smith,Male,24,95.52,tina83@example.net,Electrical Engineering
+599,Traci,Kim,Male,19,66.65,tpage@example.net,Physics
+600,Harold,Nelson,Female,19,89.6,murphyhunter@example.com,Electrical Engineering
+601,Jennifer,Tran,Female,21,73.32,acook@example.com,Mechanical Engineering
+602,Tamara,Snyder,Male,21,61.77,michaelbrewer@example.org,Physics
+603,Kelly,Edwards,Male,19,99.37,douglastrevor@example.com,Physics
+604,Ethan,Bowen,Male,24,94.76,gcarr@example.com,Computer Science
+605,Stephanie,Mendoza,Male,24,91.75,monicahunt@example.com,Electrical Engineering
+606,Zachary,Barker,Female,22,66.65,bernardrichard@example.com,Electrical Engineering
+607,Matthew,Santiago,Male,21,87.59,smithmark@example.net,Mechanical Engineering
+608,Mary,Lozano,Male,19,66.86,qphillips@example.org,Physics
+609,Amanda,Stark,Female,23,71.94,james63@example.org,Physics
+610,Don,Vaughan,Female,23,74.15,thomasgrimes@example.com,Physics
+611,Brian,Obrien,Female,21,86.51,kylelane@example.org,Computer Science
+612,Rhonda,Robinson,Female,21,62.41,jbush@example.org,Computer Science
+613,Melissa,Fernandez,Female,22,72.67,vfrank@example.org,Mechanical Engineering
+614,Angelica,Esparza,Female,21,73.66,yangamber@example.org,Physics
+615,Sydney,Smith,Male,23,72.12,pattersonsara@example.com,Mathematics
+616,Katrina,Graham,Female,19,63.2,masseyjames@example.com,Computer Science
+617,Calvin,Williams,Male,24,74.38,prattmegan@example.org,Electrical Engineering
+618,Michael,Jones,Male,22,71.61,josephhopkins@example.net,Mechanical Engineering
+619,Jason,Walton,Male,24,95.21,larsonjacqueline@example.com,Electrical Engineering
+620,Adrian,Leonard,Female,24,71.74,donaldgeorge@example.net,Physics
+621,Virginia,Jones,Male,21,96.69,tmoreno@example.com,Computer Science
+622,Linda,Walton,Male,25,65.22,mary75@example.com,Mathematics
+623,Gina,Wright,Male,24,75.31,rbrown@example.org,Computer Science
+624,Jason,Huff,Male,22,96.13,jenniferwade@example.org,Electrical Engineering
+625,Monique,Anderson,Male,21,79.91,esteseric@example.org,Physics
+626,Stephanie,Miller,Male,18,87.15,melinda94@example.net,Electrical Engineering
+627,Eric,Turner,Female,23,63.58,ronnie46@example.com,Computer Science
+628,Bradley,Hart,Male,25,87.34,hollytodd@example.org,Mechanical Engineering
+629,Cassandra,Miller,Female,23,87.12,zlucas@example.net,Mathematics
+630,Kenneth,Castillo,Male,21,79.01,mccormicksandra@example.net,Computer Science
+631,Amanda,Ortiz,Female,24,67.06,twright@example.net,Physics
+632,Stephen,Mccoy,Male,24,61.87,cindy54@example.net,Computer Science
+633,Katie,Hart,Female,18,62.08,hernandeztyler@example.com,Computer Science
+634,Kara,Malone,Female,18,90.08,joe55@example.org,Mathematics
+635,Emily,Wallace,Female,21,75.07,sfranklin@example.com,Computer Science
+636,Lisa,Carney,Male,19,74.78,hernandezgabriela@example.net,Mechanical Engineering
+637,Wendy,Garcia,Male,25,97.45,john39@example.net,Mechanical Engineering
+638,Tiffany,Bautista,Female,21,74.31,jamesjeff@example.net,Mechanical Engineering
+639,Thomas,Conley,Female,24,73.88,yolson@example.net,Physics
+640,Jon,Morales,Male,18,87.21,marisasmith@example.org,Physics
+641,Mariah,Mills,Female,23,83.8,nathan53@example.com,Mathematics
+642,Toni,Whitehead,Male,21,72.1,charles55@example.net,Computer Science
+643,Derek,Smith,Male,22,71.06,michaelrobertson@example.com,Electrical Engineering
+644,Kristen,White,Female,20,62.3,kaitlynolson@example.com,Electrical Engineering
+645,Eric,Stewart,Male,18,64.57,davisjessica@example.net,Mechanical Engineering
+646,Yolanda,Paul,Male,24,98.51,christopher17@example.com,Physics
+647,Alyssa,Smith,Male,24,94.36,victoria83@example.com,Mathematics
+648,Scott,Padilla,Male,18,91.71,sarah78@example.org,Mathematics
+649,Heather,Horton,Female,19,82.31,michellecraig@example.net,Computer Science
+650,Jennifer,Bennett,Female,21,93.88,tina72@example.com,Physics
+651,Elizabeth,Reed,Male,24,86.65,lukehorn@example.com,Mathematics
+652,Erik,Yates,Female,19,88.86,tracyspears@example.org,Electrical Engineering
+653,Tiffany,Kelly,Male,25,96.53,uwallace@example.net,Mechanical Engineering
+654,Thomas,Keller,Male,18,88.52,hcrawford@example.org,Computer Science
+655,David,Page,Female,20,85.87,newtonjoshua@example.com,Mathematics
+656,Patrick,Thomas,Male,25,83.03,pamela66@example.org,Physics
+657,Patty,Martinez,Male,23,83.76,csutton@example.net,Mechanical Engineering
+658,Michael,Mann,Male,20,92.99,erin15@example.net,Mathematics
+659,Richard,Myers,Male,24,95.13,walter04@example.com,Mechanical Engineering
+660,Brittany,Wilson,Female,24,69.39,denise97@example.org,Mechanical Engineering
+661,David,Arnold,Female,22,95.73,kingjason@example.org,Mechanical Engineering
+662,Tony,Thomas,Male,23,87.45,joseph80@example.org,Mathematics
+663,Scott,Juarez,Female,22,90.03,dthomas@example.org,Electrical Engineering
+664,Cody,Nelson,Female,18,75.33,jefferysellers@example.net,Mathematics
+665,Kathy,Walker,Male,25,64.75,lnguyen@example.org,Mathematics
+666,Mark,Diaz,Male,20,65.78,alexataylor@example.net,Computer Science
+667,Ashley,Hall,Male,18,77.36,shernandez@example.com,Electrical Engineering
+668,James,Johnson,Male,18,82.64,wrighttyler@example.org,Mathematics
+669,Tammy,Delgado,Female,20,67.0,georgereyes@example.com,Mechanical Engineering
+670,Robert,Morris,Female,23,85.15,sylviacook@example.org,Electrical Engineering
+671,Scott,Richardson,Female,23,73.41,operez@example.com,Mathematics
+672,John,Higgins,Female,22,68.63,ericaallen@example.net,Computer Science
+673,Christopher,Lane,Male,22,67.95,jwhite@example.net,Computer Science
+674,Jennifer,Pacheco,Male,20,90.19,iwallace@example.net,Electrical Engineering
+675,Joseph,King,Female,25,98.71,williamskathleen@example.com,Mechanical Engineering
+676,Peter,Barrett,Female,23,78.79,vmcconnell@example.com,Physics
+677,Scott,Adams,Male,21,87.2,barnesmichael@example.net,Mathematics
+678,Stephanie,Ramirez,Male,25,76.92,joshua74@example.com,Mathematics
+679,Crystal,Thompson,Male,19,72.81,wagnerkatherine@example.org,Computer Science
+680,Patrick,Gonzalez,Female,22,66.01,philipcarter@example.net,Mathematics
+681,David,Diaz,Female,25,89.3,zramirez@example.org,Electrical Engineering
+682,Tracy,Lee,Male,21,88.34,campbellscott@example.org,Electrical Engineering
+683,Brianna,Poole,Female,18,85.66,ryandylan@example.net,Electrical Engineering
+684,Andrew,Young,Male,20,65.42,gibsonbrittney@example.org,Mechanical Engineering
+685,Michael,Boyd,Male,18,84.7,melissa01@example.com,Mechanical Engineering
+686,Gary,Hernandez,Female,23,62.36,simpsoncameron@example.net,Mechanical Engineering
+687,Veronica,Martin,Male,24,91.62,dawnhunt@example.com,Electrical Engineering
+688,Theresa,Jenkins,Female,25,91.46,colleen58@example.com,Electrical Engineering
+689,Michael,Boone,Female,20,71.22,jason27@example.org,Electrical Engineering
+690,Michelle,Sherman,Female,19,71.82,ashleymendoza@example.net,Computer Science
+691,Jimmy,Ramsey,Male,20,70.39,terry87@example.com,Physics
+692,Brandon,Huber,Male,22,99.32,amber51@example.net,Mechanical Engineering
+693,Kyle,English,Male,24,71.06,hhurley@example.org,Physics
+694,Brian,Rodgers,Male,18,90.97,lmcfarland@example.net,Mechanical Engineering
+695,Kristin,Rodriguez,Female,19,85.56,lopezwendy@example.com,Electrical Engineering
+696,Scott,Compton,Female,23,89.24,pjohnson@example.net,Electrical Engineering
+697,Jeffery,Cherry,Male,20,75.04,crosssteven@example.org,Computer Science
+698,Douglas,Copeland,Female,25,60.39,gmiller@example.net,Mechanical Engineering
+699,Kenneth,Walker,Female,25,73.79,hreynolds@example.com,Electrical Engineering
+700,Susan,Brown,Male,20,91.18,leslieroach@example.com,Mechanical Engineering
+701,Brandy,Brandt,Male,20,87.91,lgarcia@example.com,Mathematics
+702,Raymond,Lowe,Male,18,77.66,james57@example.net,Mechanical Engineering
+703,Maria,Reynolds,Female,22,91.33,krusso@example.org,Electrical Engineering
+704,Aaron,Morris,Female,25,86.67,yvasquez@example.org,Mechanical Engineering
+705,Nicole,Owens,Male,24,61.78,ivazquez@example.com,Mathematics
+706,Oscar,Berg,Female,18,95.34,kparker@example.com,Computer Science
+707,Donna,Rivas,Female,21,69.9,christopherhuang@example.com,Mechanical Engineering
+708,Paige,House,Male,24,61.02,adamnash@example.net,Electrical Engineering
+709,Thomas,Mejia,Male,19,69.69,brownmiranda@example.com,Electrical Engineering
+710,Matthew,Miller,Male,24,73.03,silvaryan@example.org,Computer Science
+711,Caleb,Manning,Female,24,99.44,selenaphelps@example.org,Mathematics
+712,Christopher,Stewart,Female,19,89.41,ncochran@example.org,Computer Science
+713,Kathryn,Miller,Male,25,98.41,charlene36@example.com,Physics
+714,Mark,Tran,Female,22,82.67,robertmoore@example.net,Mathematics
+715,Kari,Rivera,Male,25,86.31,anthonyrhodes@example.net,Computer Science
+716,Jonathan,Osborne,Male,19,89.33,nicholas90@example.net,Mathematics
+717,Margaret,Young,Female,25,79.34,sarahholland@example.org,Physics
+718,Kelly,Craig,Female,18,66.77,hlee@example.org,Electrical Engineering
+719,Diana,Short,Male,22,74.14,dennismichael@example.com,Mechanical Engineering
+720,John,Bates,Male,22,63.35,bryandixon@example.com,Computer Science
+721,Eduardo,Jimenez,Male,18,95.73,xzhang@example.com,Mathematics
+722,Jennifer,Parsons,Male,23,94.28,mooremichael@example.org,Mathematics
+723,Scott,Allen,Female,24,97.38,gfisher@example.com,Physics
+724,Christopher,Jones,Male,22,73.21,wjackson@example.net,Computer Science
+725,Caleb,Valdez,Female,18,76.31,jacob64@example.org,Mechanical Engineering
+726,Barbara,Osborne,Female,24,75.52,cynthia22@example.net,Computer Science
+727,Jeffery,Johnson,Male,20,78.31,andradegerald@example.net,Computer Science
+728,Brian,Hardy,Male,19,93.69,wrightzachary@example.org,Computer Science
+729,Tricia,Crane,Female,18,73.18,ecooper@example.com,Mechanical Engineering
+730,Richard,Hernandez,Male,22,88.23,yvonnegray@example.net,Mathematics
+731,Stephen,Sandoval,Female,24,74.16,christopherwilson@example.net,Mathematics
+732,Vanessa,Garcia,Male,19,90.14,mullengregory@example.org,Electrical Engineering
+733,Emily,Knight,Female,23,70.92,donaldcabrera@example.net,Mathematics
+734,Natalie,Davila,Female,23,64.67,marciaanderson@example.com,Mathematics
+735,Sharon,Robertson,Male,18,64.78,davidball@example.org,Mechanical Engineering
+736,Valerie,Thomas,Male,19,65.98,mfrost@example.org,Mathematics
+737,Tonya,Brock,Male,19,66.61,reynoldskristen@example.org,Mathematics
+738,Elizabeth,Gomez,Female,21,80.85,lfinley@example.org,Physics
+739,Madison,Bailey,Male,18,71.55,robert24@example.org,Electrical Engineering
+740,Alan,Mayer,Male,19,97.92,harrischeryl@example.net,Mechanical Engineering
+741,Charles,Reese,Female,20,81.34,pgardner@example.net,Computer Science
+742,Alexandria,Herrera,Male,23,94.84,gregory65@example.org,Mathematics
+743,Angela,Wolf,Male,19,61.21,stephenmanning@example.org,Computer Science
+744,Jeffrey,Anderson,Male,20,82.84,larsendamon@example.com,Mathematics
+745,Scott,Hays,Male,21,67.38,sheltonmelanie@example.net,Physics
+746,Suzanne,Cummings,Female,19,70.69,brian84@example.com,Physics
+747,Jessica,Cardenas,Female,24,95.49,jeremy69@example.net,Electrical Engineering
+748,Amy,Rogers,Male,20,69.63,nicole49@example.net,Mechanical Engineering
+749,Nicholas,Montes,Male,19,77.71,kathryn94@example.com,Mathematics
+750,Dwayne,Johnson,Male,22,68.48,heidijohnson@example.com,Physics
+751,Kim,Holloway,Male,19,85.99,stevenhowell@example.org,Mechanical Engineering
+752,Jennifer,Warner,Male,25,71.44,johnmoore@example.com,Electrical Engineering
+753,Jacob,Jensen,Female,18,97.7,lisa19@example.net,Physics
+754,Mathew,Richardson,Male,20,69.9,johnsonashley@example.com,Computer Science
+755,Danny,Gould,Female,20,81.62,jerry93@example.org,Mechanical Engineering
+756,Emily,Wilson,Female,21,82.22,meghanmurphy@example.org,Physics
+757,Amber,Morgan,Male,19,68.02,donna82@example.org,Mathematics
+758,Jeff,Brown,Male,18,71.67,smithlisa@example.net,Mechanical Engineering
+759,David,Pena,Female,18,88.04,garycraig@example.net,Mechanical Engineering
+760,Christopher,Morris,Male,24,93.45,jacob07@example.net,Mechanical Engineering
+761,Ann,Brown,Male,18,80.19,alimatthew@example.com,Computer Science
+762,Francisco,Mclaughlin,Female,23,82.3,nhenderson@example.net,Mechanical Engineering
+763,Cynthia,Kramer,Female,20,83.24,robertwatkins@example.org,Mathematics
+764,Jennifer,Bryant,Male,19,69.38,nicholsterri@example.org,Mathematics
+765,Nichole,Oliver,Male,20,96.34,maryanderson@example.org,Mathematics
+766,Eric,Byrd,Female,18,64.12,reyestheodore@example.org,Computer Science
+767,Karen,Roth,Male,24,61.2,kelly33@example.net,Physics
+768,Shawn,Carter,Male,21,93.12,brett66@example.org,Electrical Engineering
+769,Steve,Daniel,Male,19,74.36,stevenhughes@example.net,Mechanical Engineering
+770,Michelle,Gould,Male,22,92.37,zacharygarrett@example.com,Mechanical Engineering
+771,Cynthia,Wilson,Male,22,96.92,torresscott@example.net,Mathematics
+772,Stacey,Ewing,Male,19,82.43,nielsentammy@example.com,Physics
+773,Stephen,Bryant,Female,22,64.26,ruizmichael@example.net,Physics
+774,Sandra,Franklin,Female,20,98.9,pattersonjames@example.com,Mathematics
+775,Jeremy,Howard,Male,22,61.09,iwatson@example.org,Physics
+776,David,Williams,Female,25,83.6,kristinesmith@example.net,Electrical Engineering
+777,Cynthia,Fisher,Male,18,80.71,ggriffin@example.net,Computer Science
+778,Jorge,Murphy,Female,20,76.03,bkidd@example.com,Computer Science
+779,Holly,Pearson,Male,19,78.25,haley05@example.com,Mechanical Engineering
+780,Theodore,Campbell,Female,22,80.2,christine93@example.net,Physics
+781,Bradley,Richards,Female,19,90.25,usoto@example.com,Physics
+782,Shelley,Little,Female,22,92.45,crystal42@example.com,Mechanical Engineering
+783,Ronald,Cordova,Female,22,83.01,troy15@example.net,Mechanical Engineering
+784,Jose,Gonzalez,Male,22,98.72,moralesethan@example.net,Mathematics
+785,Michael,Myers,Male,21,86.15,qsimon@example.net,Electrical Engineering
+786,Kelly,Andrews,Male,23,89.73,christopher72@example.com,Computer Science
+787,Leslie,Weber,Female,18,77.13,julie61@example.net,Mechanical Engineering
+788,Amy,Gray,Male,20,95.49,savannahsexton@example.net,Mechanical Engineering
+789,Jessica,Mayo,Male,18,88.39,erica95@example.org,Computer Science
+790,Randy,Garrett,Female,24,94.2,jonathan18@example.com,Electrical Engineering
+791,Lisa,Hoffman,Male,19,90.72,julie72@example.org,Mechanical Engineering
+792,Johnny,Nichols,Male,21,72.54,samuelfarmer@example.com,Electrical Engineering
+793,Jaclyn,West,Male,20,92.38,mclaughlinbrian@example.org,Electrical Engineering
+794,Amy,Jones,Male,18,72.09,whitneycooper@example.net,Computer Science
+795,Christopher,Clark,Female,18,82.52,denise53@example.net,Physics
+796,Sandra,Eaton,Male,22,87.87,bmorgan@example.org,Physics
+797,James,Simmons,Male,18,90.97,dana34@example.org,Electrical Engineering
+798,Laura,Mooney,Male,24,61.6,rhonda51@example.net,Physics
+799,Jennifer,Foster,Male,18,64.67,gilbertphilip@example.org,Mathematics
+800,Jason,Neal,Female,25,97.23,anthonygraves@example.net,Mathematics
+801,Adrienne,Alexander,Male,20,90.71,hnguyen@example.com,Physics
+802,Antonio,Wheeler,Female,19,64.56,ashleyhooper@example.net,Electrical Engineering
+803,Yvonne,Hamilton,Male,22,81.06,karen51@example.net,Electrical Engineering
+804,Jonathan,Cowan,Female,21,95.18,marvin61@example.net,Mechanical Engineering
+805,Kayla,Ward,Female,22,90.59,kelly70@example.org,Computer Science
+806,Breanna,Scott,Female,25,79.08,longrodney@example.net,Computer Science
+807,Kenneth,Roth,Female,25,81.45,randallholmes@example.com,Mechanical Engineering
+808,Randall,Thomas,Female,25,79.14,rebecca30@example.org,Computer Science
+809,Amber,Fitzpatrick,Female,25,74.95,danny69@example.org,Mathematics
+810,Robert,Gilbert,Male,21,89.28,valentinetiffany@example.org,Mechanical Engineering
+811,Stacy,Smith,Female,19,99.68,richardjeffrey@example.com,Mechanical Engineering
+812,Joseph,Klein,Male,18,70.37,woodmatthew@example.net,Mathematics
+813,Andrew,Jones,Male,25,65.29,samuel13@example.org,Computer Science
+814,Ruth,Fuentes,Female,25,74.26,jenniferalexander@example.org,Electrical Engineering
+815,Anthony,Scott,Male,25,60.61,evelynlewis@example.com,Electrical Engineering
+816,Dakota,Grant,Male,20,74.44,jgreen@example.org,Electrical Engineering
+817,Jennifer,Jackson,Male,21,80.6,hpena@example.com,Mechanical Engineering
+818,Joel,Lam,Female,19,81.84,pamelacompton@example.com,Mechanical Engineering
+819,George,Martin,Male,24,76.11,fisherjeffrey@example.net,Electrical Engineering
+820,Brian,Morse,Male,19,67.29,hahnangela@example.org,Mechanical Engineering
+821,Colton,Sutton,Female,22,79.47,lray@example.net,Electrical Engineering
+822,Aaron,Rodriguez,Female,23,66.22,randy57@example.net,Computer Science
+823,Gregory,Patterson,Female,23,93.36,james98@example.org,Mechanical Engineering
+824,Amy,Mcneil,Female,19,98.81,moralesjeremy@example.net,Computer Science
+825,Gary,Martinez,Male,18,87.64,nsalazar@example.org,Computer Science
+826,Thomas,Murphy,Female,23,64.16,rdunn@example.com,Electrical Engineering
+827,Patricia,Ford,Male,23,86.56,georgesandra@example.com,Computer Science
+828,Richard,Weaver,Female,20,69.32,uhopkins@example.com,Electrical Engineering
+829,Gloria,Baker,Female,18,68.3,millerreginald@example.net,Electrical Engineering
+830,Steven,Williams,Female,23,72.11,jessica48@example.com,Mechanical Engineering
+831,Christopher,Jackson,Female,25,72.56,craigsheppard@example.org,Mathematics
+832,Antonio,Edwards,Female,24,89.56,spatrick@example.com,Electrical Engineering
+833,Brandy,Alvarado,Male,23,89.78,cstephens@example.org,Mathematics
+834,Jamie,Choi,Female,21,62.86,warrenjulie@example.net,Computer Science
+835,Christopher,Garner,Female,23,90.64,hornbrandon@example.org,Electrical Engineering
+836,Jeffrey,Hanna,Male,24,93.27,cmyers@example.com,Mathematics
+837,Brianna,Sanchez,Female,24,73.25,teresacohen@example.com,Mechanical Engineering
+838,Luis,Brown,Female,23,77.64,allison58@example.net,Mechanical Engineering
+839,Jonathan,Wise,Female,25,69.28,rioskaren@example.net,Electrical Engineering
+840,James,Curry,Female,23,67.07,george14@example.com,Mathematics
+841,Joseph,Miller,Male,25,78.48,campbellanthony@example.net,Mechanical Engineering
+842,Bryce,Williams,Male,18,98.3,pamburke@example.org,Electrical Engineering
+843,Timothy,Ferrell,Female,24,73.29,jessica45@example.org,Mechanical Engineering
+844,Samantha,Wilson,Male,20,80.68,ledonna@example.net,Physics
+845,Amanda,Hansen,Male,21,88.8,jennifer32@example.com,Physics
+846,Alfred,Oliver,Female,24,91.13,joy44@example.com,Physics
+847,Janet,Faulkner,Male,22,64.89,robert99@example.org,Computer Science
+848,John,Kelly,Female,19,89.64,patricia91@example.net,Physics
+849,Zachary,Casey,Female,19,76.41,bonniemay@example.com,Mechanical Engineering
+850,Katie,Williams,Female,23,94.4,shicks@example.org,Mechanical Engineering
+851,Adam,Payne,Male,24,83.51,charleshutchinson@example.org,Mechanical Engineering
+852,Sandy,Schwartz,Male,21,68.13,robertpetty@example.org,Physics
+853,Kimberly,Smith,Female,19,89.61,janet78@example.com,Mechanical Engineering
+854,Timothy,Gonzalez,Female,23,93.25,matthewfry@example.net,Mathematics
+855,David,Woods,Male,19,98.57,chris88@example.net,Mechanical Engineering
+856,Theresa,Hayden,Female,25,97.19,kylewilkerson@example.org,Mechanical Engineering
+857,Tracey,Green,Female,20,66.36,patrick56@example.com,Mechanical Engineering
+858,Linda,Davis,Male,24,99.12,crystal27@example.net,Mechanical Engineering
+859,Robin,Velazquez,Male,20,90.52,turnertracey@example.com,Electrical Engineering
+860,Patricia,Arroyo,Female,22,89.04,elizabeth83@example.com,Computer Science
+861,Amanda,Hughes,Female,25,75.7,thomascurtis@example.com,Mathematics
+862,Crystal,Valencia,Female,25,78.99,kevin61@example.com,Mathematics
+863,Ana,Wilson,Female,21,92.38,nathanieldavis@example.com,Mathematics
+864,David,Horton,Male,23,66.45,hburke@example.net,Mechanical Engineering
+865,Gregory,Moore,Female,22,91.9,archerlindsay@example.com,Electrical Engineering
+866,Melanie,Hall,Female,19,67.67,karen67@example.com,Mechanical Engineering
+867,Ryan,Dean,Male,22,67.13,ramosronnie@example.com,Physics
+868,Monica,Austin,Female,22,97.37,mistythompson@example.org,Electrical Engineering
+869,John,Stephens,Female,24,78.8,rangelzachary@example.org,Mathematics
+870,James,Williams,Male,19,90.0,stephaniecameron@example.org,Computer Science
+871,Andrew,Williams,Male,23,63.46,scott76@example.com,Mathematics
+872,Dawn,Haynes,Male,18,95.18,carl81@example.com,Physics
+873,Andrew,Hoover,Male,20,92.7,oarnold@example.org,Mathematics
+874,Tiffany,Conley,Male,22,92.82,michaellewis@example.com,Physics
+875,Cindy,Guzman,Female,25,92.68,fwilliams@example.org,Electrical Engineering
+876,Suzanne,Garcia,Female,21,81.66,kimberlystewart@example.org,Mathematics
+877,Mark,Horton,Male,20,70.29,tanderson@example.net,Mechanical Engineering
+878,Taylor,Wood,Female,25,79.91,dillon75@example.com,Computer Science
+879,John,Dixon,Male,18,76.48,kristinmedina@example.net,Electrical Engineering
+880,Kelsey,Mcbride,Male,25,75.93,steven51@example.net,Mathematics
+881,Jonathan,Mccarthy,Female,22,93.87,thomasmark@example.com,Mechanical Engineering
+882,Derrick,Perez,Female,22,94.78,david57@example.org,Mathematics
+883,Terry,Butler,Male,25,64.65,osmith@example.org,Mathematics
+884,Stephen,Powers,Male,24,88.18,loriroberts@example.org,Physics
+885,Charles,Martinez,Female,18,87.03,yvonne81@example.com,Computer Science
+886,Cindy,Morris,Male,22,97.48,kayla42@example.org,Electrical Engineering
+887,Kimberly,Brown,Male,24,75.09,paul56@example.org,Mathematics
+888,Heather,Schmitt,Female,21,61.84,nicholas94@example.net,Mathematics
+889,Carly,Barnes,Female,20,66.68,schwartzstephen@example.net,Mathematics
+890,Emily,Hall,Female,25,96.01,jonathangraham@example.com,Computer Science
+891,Jeffrey,Marshall,Female,23,93.06,loribaird@example.com,Mathematics
+892,Frank,Todd,Male,20,80.98,ryanlong@example.org,Mathematics
+893,Miranda,Robertson,Female,18,79.76,lawrencekevin@example.net,Computer Science
+894,Elizabeth,Ramirez,Male,24,72.38,rfernandez@example.net,Physics
+895,Rachel,Dominguez,Male,22,87.07,nelsondavid@example.net,Physics
+896,Alexis,Jones,Female,25,94.08,wallen@example.net,Electrical Engineering
+897,Karen,Owens,Female,23,77.77,fosterdon@example.net,Physics
+898,Kelly,Davis,Female,18,95.59,brownjulie@example.com,Computer Science
+899,Nicholas,Humphrey,Male,19,67.67,derekjohnson@example.org,Mechanical Engineering
+900,Michelle,Moody,Female,24,94.99,chungsarah@example.org,Computer Science
+901,Pamela,Guerrero,Female,19,71.44,navarrojenna@example.net,Mathematics
+902,Roger,Davis,Male,25,79.42,alejandra53@example.com,Computer Science
+903,Justin,Kim,Male,23,93.99,cummingschristina@example.com,Mathematics
+904,Kirsten,Watts,Male,24,70.75,tcollins@example.net,Physics
+905,Angel,Bean,Female,20,90.47,qgreene@example.com,Mathematics
+906,Scott,Wagner,Male,19,70.53,shellycook@example.org,Computer Science
+907,Dawn,Lawson,Male,25,99.99,kimberlyboyd@example.com,Physics
+908,James,Gonzalez,Male,23,89.24,joseph12@example.com,Physics
+909,Hannah,White,Male,25,93.41,donaldmcfarland@example.org,Computer Science
+910,Lisa,Stanley,Female,18,70.69,crawfordelizabeth@example.com,Mechanical Engineering
+911,Joseph,Bullock,Male,19,89.84,jonesgabrielle@example.com,Physics
+912,Colleen,Barker,Male,22,63.37,hcunningham@example.net,Mechanical Engineering
+913,Robert,Walker,Female,25,60.59,odaniel@example.net,Mathematics
+914,Diane,Miller,Male,22,96.62,xwhite@example.net,Computer Science
+915,David,Hayes,Female,20,60.38,ehaney@example.com,Computer Science
+916,Brian,Weaver,Male,21,72.21,bellannette@example.net,Computer Science
+917,Victor,Mendoza,Female,20,89.45,salinasjacqueline@example.org,Mathematics
+918,Joanne,Williams,Male,22,93.48,pamelahahn@example.com,Electrical Engineering
+919,Todd,Miller,Male,25,92.14,ericlee@example.com,Mathematics
+920,Laura,Hicks,Male,25,88.01,onealmelanie@example.com,Electrical Engineering
+921,Joshua,Rhodes,Male,20,98.24,mark94@example.com,Mathematics
+922,Joshua,Taylor,Male,18,96.41,nealrussell@example.com,Mechanical Engineering
+923,Paul,Smith,Female,18,70.05,jeremiah70@example.net,Computer Science
+924,Rachel,Brooks,Female,20,88.27,williamescobar@example.net,Electrical Engineering
+925,Angel,Beck,Male,23,67.58,watsoncharles@example.com,Electrical Engineering
+926,Ashley,Cole,Male,23,95.06,mduffy@example.org,Physics
+927,Brittany,Brown,Female,23,70.48,djones@example.com,Mathematics
+928,Monica,Griffith,Female,20,64.17,hgill@example.com,Mathematics
+929,Garrett,Hayes,Female,25,96.78,janehunter@example.com,Electrical Engineering
+930,Michelle,Williams,Female,25,71.73,alidanielle@example.org,Physics
+931,Timothy,Gray,Female,24,83.25,deborah86@example.net,Mechanical Engineering
+932,Lisa,Rodriguez,Female,25,63.28,qbrown@example.net,Mathematics
+933,George,Davis,Male,22,80.27,fernandezcheryl@example.com,Mathematics
+934,Maria,Lamb,Male,22,81.75,travisnicole@example.org,Mathematics
+935,Joshua,Brown,Female,22,76.33,zachary58@example.org,Computer Science
+936,Eric,Jackson,Male,23,87.32,angelaschmitt@example.com,Mechanical Engineering
+937,Wesley,Ward,Male,21,67.1,perezmary@example.net,Physics
+938,Sarah,Burns,Male,22,65.53,stephanie55@example.org,Physics
+939,Abigail,Mckay,Male,18,85.56,erinlee@example.com,Electrical Engineering
+940,Brandi,James,Male,20,96.72,trevornelson@example.org,Computer Science
+941,Kristen,Thomas,Female,19,68.79,matthew18@example.net,Electrical Engineering
+942,Deborah,Ramirez,Female,24,65.29,dcunningham@example.com,Physics
+943,Benjamin,Johnson,Female,22,77.12,hstone@example.org,Mechanical Engineering
+944,Diana,Hurst,Female,22,89.45,butleryesenia@example.net,Electrical Engineering
+945,Ebony,Mccarthy,Female,25,68.8,unorman@example.net,Electrical Engineering
+946,Lauren,Bishop,Male,18,65.11,morganjeffrey@example.com,Electrical Engineering
+947,Brianna,Stephens,Female,23,61.22,susanvega@example.com,Mechanical Engineering
+948,Victoria,Yoder,Male,19,77.17,robertclayton@example.com,Computer Science
+949,Savannah,Wu,Female,25,95.62,carrillolaura@example.org,Mathematics
+950,Jason,Carpenter,Female,23,93.96,sandra09@example.org,Mathematics
+951,Amy,Williams,Male,18,88.42,marybaldwin@example.net,Electrical Engineering
+952,Deborah,Davidson,Female,21,88.33,zcurry@example.com,Mathematics
+953,Jose,Reilly,Female,19,78.94,bwilson@example.org,Mathematics
+954,Daniel,Stone,Female,24,95.93,hartmanrebecca@example.org,Mechanical Engineering
+955,Aaron,Hale,Female,22,66.37,brett89@example.com,Electrical Engineering
+956,Brenda,Porter,Male,21,77.47,rachelkennedy@example.net,Computer Science
+957,Trevor,Rodriguez,Female,20,91.9,whiteyesenia@example.net,Mechanical Engineering
+958,Kimberly,Smith,Female,18,84.88,danielle17@example.net,Electrical Engineering
+959,David,House,Male,18,91.94,jonathan65@example.com,Mathematics
+960,Cynthia,Murphy,Male,18,79.45,jose42@example.org,Computer Science
+961,Christina,Torres,Male,22,82.77,gonzalezlauren@example.net,Mathematics
+962,Stephen,Foley,Female,25,80.85,dalton09@example.org,Mathematics
+963,Benjamin,Miller,Male,18,77.14,wrobinson@example.net,Electrical Engineering
+964,Joseph,Clark,Female,24,78.06,parkerjeffrey@example.com,Mechanical Engineering
+965,Randall,Harris,Male,23,88.79,omcdaniel@example.net,Mathematics
+966,Gerald,Owens,Female,23,71.62,eperry@example.net,Mathematics
+967,Valerie,Harrison,Female,23,63.54,randy15@example.net,Electrical Engineering
+968,Debbie,Lopez,Female,18,90.41,sweeneyjoseph@example.com,Electrical Engineering
+969,Kenneth,Harris,Female,19,97.69,ujohnson@example.org,Mathematics
+970,Willie,Ewing,Male,22,87.38,aleach@example.net,Physics
+971,Chelsea,Brown,Male,25,62.91,coxchris@example.org,Mechanical Engineering
+972,Dawn,Crawford,Male,25,92.01,angela28@example.net,Physics
+973,Nicholas,Watson,Male,23,83.25,tara93@example.org,Electrical Engineering
+974,Daniel,Lowe,Female,25,96.67,ashleysheppard@example.org,Physics
+975,Keith,Wilson,Female,19,80.64,dudleycheryl@example.org,Mechanical Engineering
+976,Patrick,Anderson,Female,18,81.69,cburke@example.net,Mechanical Engineering
+977,Leah,Jones,Male,18,76.41,trancandace@example.org,Computer Science
+978,Susan,Robertson,Male,24,82.38,webbgina@example.org,Mathematics
+979,Kristen,Malone,Female,25,79.43,jbenton@example.net,Mechanical Engineering
+980,Dennis,Johnson,Male,18,99.25,jasonestes@example.org,Electrical Engineering
+981,John,Benson,Female,23,93.67,emily57@example.org,Mathematics
+982,Ashley,Smith,Male,23,84.16,garzacassandra@example.net,Mechanical Engineering
+983,Bryan,Thomas,Female,23,86.25,yallen@example.org,Electrical Engineering
+984,David,Rogers,Male,20,65.67,bryanjohnson@example.com,Computer Science
+985,Mariah,Bird,Female,18,66.46,wmorales@example.org,Mechanical Engineering
+986,Vincent,Mendoza,Male,25,74.96,gillespiejackson@example.net,Electrical Engineering
+987,Samantha,Macias,Male,20,91.04,humphreychristopher@example.com,Mathematics
+988,Miranda,Chambers,Female,24,95.46,hansonpaula@example.net,Computer Science
+989,Jennifer,Olson,Male,24,66.8,michelle27@example.net,Electrical Engineering
+990,Sarah,Walton,Female,22,63.98,garciaevan@example.com,Mechanical Engineering
+991,Sherry,Rivera,Male,23,68.64,bradthomas@example.net,Electrical Engineering
+992,Joanne,Lawson,Female,20,62.23,theresamorse@example.com,Electrical Engineering
+993,Mark,Johnson,Female,18,90.41,kaylacruz@example.org,Computer Science
+994,Kyle,Watts,Male,25,84.41,erinbell@example.org,Mechanical Engineering
+995,Nicole,Faulkner,Female,24,69.28,kylechavez@example.com,Computer Science
+996,Margaret,Peck,Male,18,68.42,laura58@example.org,Mathematics
+997,Gina,Salas,Male,18,66.8,lewisdavid@example.org,Computer Science
+998,Antonio,Farmer,Female,23,87.11,mooremichael@example.net,Mechanical Engineering
+999,Lisa,Cardenas,Female,20,65.54,mjones@example.net,Mathematics
+1000,Brandon,Brown,Female,23,78.7,krichardson@example.net,Electrical Engineering
